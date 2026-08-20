@@ -254,6 +254,16 @@
 		],
 		"version": "v1.0.0"
 	},
+	"Digimon World - Dusk.nds": {
+		"title": "Digimon World Dusk",
+		"author": "Athair",
+		"description": "Digimon World Dusk"
+	},
+	"Digimon World DS.nds": {
+		"title": "Digimon World DS",
+		"author": "Athair",
+		"description": "Digimon World DS"
+	},
 	"Dinosaur King": {
 		"title": "Dinosaur King",
 		"author": "ToxicityLvL",
@@ -306,6 +316,26 @@
 		],
 		"version": "v1.0.0"
 	},
+	"Dragon Quest Heroes - Rocket Slime.nds": {
+		"title": "Dragon Quest Heroes - Rocket Slime",
+		"author": "Athair",
+		"description": "DQH Rocket Slime"
+	},
+	"Dragon Quest Monsters - Joker 1.nds": {
+		"title": "Dragon Quest Monsters Joker",
+		"author": "Athair",
+		"description": "Dragon Quest Monsters Joker"
+	},
+	"Dragon Quest Monsters - Joker 2.nds": {
+		"title": "Dragon Quest Monsters Joker 2",
+		"author": "Athair",
+		"description": "Dragon Quest Monsters Joker 2"
+	},
+	"Dragon Quest V - Hand of the Heavenly Bride.nds": {
+		"title": "Dragon Quest V - Hand of the Heavenly Bride",
+		"author": "Athair",
+		"description": "Dragon Quest V - Hand of the Heavenly Bride"
+	},
 	"Dragon Warrior III": {
 		"title": "Dragon Warrior III (GBC)",
 		"author": "Leach_Beech",
@@ -342,6 +372,11 @@
 		"categories": [
 			"snes"
 		]
+	},
+	"Etrian Odyssey i.nds": {
+		"title": "Etrian Odyssey",
+		"author": "Athair",
+		"description": "Icon for the Etrian Odyssey series"
 	},
 	"Excitebike": {
 		"title": "Excitebike",
@@ -593,6 +628,21 @@
 			"nds"
 		]
 	},
+	"Inazuma Eleven 1.nds": {
+		"title": "Inazuma Eleven",
+		"author": "Athair",
+		"description": "Animated icon for the Inazuma Eleven series"
+	},
+	"Kingdom Hearts - 358-2 Days.nds": {
+		"title": "Kingdom Hearts 358\/2 Days",
+		"author": "Athair",
+		"description": "Animated icon for Kingdom Hearts 358\/2 Days"
+	},
+	"Kingdom Hearts - Re-coded.nds": {
+		"title": "Kingdom Hearts - Re-coded",
+		"author": "Athair",
+		"description": "Kingdom Hearts - Re-coded animated icon"
+	},
 	"Kirby & the Amazing Mirror": {
 		"title": "Kirby & the Amazing Mirror",
 		"author": "NandoLawson",
@@ -630,6 +680,21 @@
 		"categories": [
 			"gba"
 		]
+	},
+	"Legend of Zelda - Phantom Hourglass.nds": {
+		"title": "Legend of Zelda - Phantom Hourglass",
+		"author": "Athair",
+		"description": "Legend of Zelda - Phantom Hourglass animated icon"
+	},
+	"Legend of Zelda - Spirit Tracks.nds": {
+		"title": "Legend of Zelda - Spirit Tracks",
+		"author": "Athair",
+		"description": "Legend of Zelda - Spirit Tracks animated icon"
+	},
+	"Legend of Zelda, The - The Minish Cap.gba": {
+		"title": "Legend of Zelda, The - The Minish Cap",
+		"author": "Athair",
+		"description": "Legend of Zelda, The - The Minish Cap animated icon"
 	},
 	"Legendary Starfy 2, The.gba": {
 		"title": "The Legendary Starfy 2",
@@ -710,6 +775,11 @@
 			"icon"
 		]
 	},
+	"Mario & Luigi - Bowser's Inside Story.nds": {
+		"title": "Mario & Luigi - Bowser's Inside Story",
+		"author": "Athair",
+		"description": "Mario & Luigi - Bowser's Inside Story animated icon"
+	},
 	"Mario & Luigi - Partners in Time": {
 		"title": "Mario & Luigi: Partners in Time",
 		"author": "ToxicityLvL",
@@ -724,6 +794,11 @@
 			"animated"
 		],
 		"version": "v1.0.0"
+	},
+	"Mario & Luigi - Partners in Time.nds": {
+		"title": "Mario & Luigi - Partners in Time",
+		"author": "Athair",
+		"description": "Mario & Luigi - Partners in Time"
 	},
 	"Mario & Luigi - Superstar Saga": {
 		"title": "Mario & Luigi: Superstar Saga",
@@ -826,6 +901,11 @@
 			"earthbound"
 		]
 	},
+	"Nostalgia.nds": {
+		"title": "Nostalgia",
+		"author": "Athair",
+		"description": "Nostalgia animated icon"
+	},
 	"Pac-Man": {
 		"title": "Pac-Man",
 		"author": "ToxicityLvL",
@@ -899,6 +979,11 @@
 			"pokemon"
 		]
 	},
+	"Pokemon Unbound.gba": {
+		"title": "Pokemon Unbound",
+		"author": "Athair",
+		"description": "Pokemon Unbound"
+	},
 	"Pokemon White 2 Version": {
 		"title": "Pok\u00e9mon White 2 Version",
 		"author": "Fonde",
@@ -966,6 +1051,7 @@
 		"title": "Pok\u00e9mon Crystal Version",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by FrenchOrange from www.spriters-resource.com",
+		"version": "v1.0.1",
 		"categories": [
 			"gbc",
 			"pokemon-crystal-version",
@@ -974,8 +1060,7 @@
 			"crystal-version",
 			"suicune",
 			"animated"
-		],
-		"version": "v1.0.0"
+		]
 	},
 	"Pok\u00e9mon Emerald Version": {
 		"title": "Pok\u00e9mon Emerald Version",
@@ -1315,6 +1400,11 @@
 			"gbc"
 		]
 	},
+	"Radiant Historia.nds": {
+		"title": "Radiant Historia",
+		"author": "Athair",
+		"description": "Radiant Historia animated icon"
+	},
 	"Rainbow Islands": {
 		"title": "Rainbow Islands (Game Boy Colour)",
 		"author": "Zdrmonster1",
@@ -1435,6 +1525,16 @@
 			"spongebob",
 			"thq"
 		]
+	},
+	"Suikoden - Tierkreis.nds": {
+		"title": "Suikoden - Tierkreis",
+		"author": "Athair",
+		"description": "Suikoden - Tierkreis animated icon"
+	},
+	"Summon Night - Swordcraft Story.gba": {
+		"title": "Summon Night - Swordcraft Story",
+		"author": "Athair",
+		"description": "Summon Night - Swordcraft Story animated icon"
 	},
 	"Super Mario Advance": {
 		"title": "Super Mario Advance",
@@ -1911,6 +2011,11 @@
 		"categories": [
 			"gba"
 		]
+	},
+	"gbar3-frontend.nds": {
+		"title": "GBA Runner 3",
+		"author": "Athair",
+		"description": "Animated icon for gbarunner3 front end"
 	},
 	"gbasp-blue": {
 		"title": "GBA SP (blue)",
