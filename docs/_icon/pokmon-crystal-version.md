@@ -57,5 +57,5 @@ titles:
 
   Nintendo'
 updated: '2023-10-05T17:27:16Z'
-version: v1.0.0
+version: v1.0.1
 ---
